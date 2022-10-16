@@ -1,17 +1,13 @@
 # Cryptography
 ![My image](https://i.ytimg.com/vi/jhXCTbFnK8o/maxresdefault.jpg)
 
-## [Google Kick Start 2020 Solutions](https://github.com/BlankCoders/GoogleKickStart2020_Solutions)
-
-![GitHub forks](https://img.shields.io/github/forks/saty-a/Hacktoberfest2022.svg?style=social&label=Fork&maxAge=2592000)
-![GitHub stars](https://img.shields.io/github/stars/saty-a/Hacktoberfest2022.svg?style=social&label=Star&maxAge=2592000)
-![GitHub watchers](https://img.shields.io/github/watchers/saty-a/Hacktoberfest2022.svg?style=social&label=Watch&maxAge=2592000)
+## [Cryptography](https://github.com/saty-a/Hacktoberfest2022)
 
 ## 🎙 Introduction
 Cryptography is associated with the process of converting ordinary plain text into unintelligible text and vice-versa. It is a method of storing and transmitting data in a particular form so that only those for whom it is intended can read and process it. Cryptography not only protects data from theft or alteration, but can also be used for user authentication.
 
 <details>
-<summary>Problems</summary>
+Problems
   
 | Year | Round   | Problem                   | Answer                   |
 |------|---------|---------------------------|--------------------------|
